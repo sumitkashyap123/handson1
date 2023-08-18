@@ -1,0 +1,50 @@
+
+
+
+h1{
+    color: brown;  
+}
+
+h4{
+    color: brown;
+    font-style: italic;
+}
+
+ol{ color: darkred;
+    
+    
+}
+
+ul{
+
+    color: darkred;
+    letter-spacing: 5px;
+}
+
+p{
+color: darkred;
+
+}
+
+a{background-color: yellow;
+    color: darkred;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.demo{ 
+
+    text-decoration: line-through;}
+    .demo2{
+
+        background-color: yellow;
+    }
+
+    .sumit{
+
+        font-style: italic;
+        text-decoration:underline ;
+    }
+    .jyoti{
+        background-color: yellow;
+    }
